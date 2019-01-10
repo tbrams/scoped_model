@@ -1,16 +1,7 @@
-# scoped_example
+# Scoped Model - Flutter Example
 
-A new Flutter project.
+The simplest possible example that can be used for learning how the scoped model is working in Flutter. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+<img width="603" alt="screenshot" src="https://user-images.githubusercontent.com/3058746/50984737-d5a52a80-1502-11e9-86fc-44c6dd73191c.png">
+</p>
